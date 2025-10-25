@@ -1,2 +1,2 @@
-#Demo Git Flow (editado manual2)
+#Demo Git Flow (editado manual2 desde feature)
 ## Cambios en rama dev
